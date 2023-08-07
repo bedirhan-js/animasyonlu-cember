@@ -8,3 +8,4 @@ Merhaba Bu projemde, basit ama eğlenceli bir CSS animasyonuyla oluşturduğum b
 
 Bu çember animasyonunu oluşturmak için HTML ve CSS kullandım. CSS'de basit bir keyframe animasyonu ile çemberi hareket ettirdim.
 
+![](cember.gif)
